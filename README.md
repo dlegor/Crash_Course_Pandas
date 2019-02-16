@@ -6,9 +6,9 @@ Later, I will share more notes on more topics that I consider relevant, unfortun
 Notebook and description:
 
 * [Basic Programming in Python and Basic topic of Numpy.](https://nbviewer.jupyter.org/github/dlegor/Crash_Course_Pandas/blob/master/Notebooks/Lesson_1.ipynb)
-* Pandas and envoriment Jupyter Notebook.
-* DataFrames and Series / Relation between SQL and Pandas 1
-* Relation between SQL and Pandas 2 / GroupBy and Pivot Tables.
-* Pipelines/ Merges and Joins/ Structure of the Data Analysis Project.
-* Two Data Analysis mini-projects. 
+* [Pandas and envoriment Jupyter Notebook.](https://nbviewer.jupyter.org/github/dlegor/Crash_Course_Pandas/blob/master/Notebooks/Lesson_2.ipynb)
+* [DataFrames and Series / Relation between SQL and Pandas 1](https://nbviewer.jupyter.org/github/dlegor/Crash_Course_Pandas/blob/master/Notebooks/Lesson_3.ipynb)
+* [Relation between SQL and Pandas 2 / GroupBy and Pivot Tables.](https://nbviewer.jupyter.org/github/dlegor/Crash_Course_Pandas/blob/master/Notebooks/Lesson_4.ipynb)
+* [Pipelines/ Merges and Joins/ Structure of the Data Analysis Project.](https://nbviewer.jupyter.org/github/dlegor/Crash_Course_Pandas/blob/master/Notebooks/Lesson_5.ipynb)
+* [Two Data Analysis mini-projects.](https://nbviewer.jupyter.org/github/dlegor/Crash_Course_Pandas/blob/master/Notebooks/Lesson_6.ipynb) 
 

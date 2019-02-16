@@ -5,7 +5,7 @@ Later, I will share more notes on more topics that I consider relevant, unfortun
 
 Notebook and description:
 
-* Basic Programming in Python and Basic topic of Numpy.
+* [Basic Programming in Python and Basic topic of Numpy.](https://nbviewer.jupyter.org/github/dlegor/Crash_Course_Pandas/blob/master/Notebooks/Lesson_1.ipynb)
 * Pandas and envoriment Jupyter Notebook.
 * DataFrames and Series / Relation between SQL and Pandas 1
 * Relation between SQL and Pandas 2 / GroupBy and Pivot Tables.

@@ -1,6 +1,7 @@
 # Crash Course Pandas
 
-This repository contains the notebooks of the intensive course that I taught for six weeks in 2018. The intention was to study the "idiomatic Pandas", but first we reviewed topics about Python and Numpy.
+This repository contains the notebooks of the intensive course that I taught for six weeks in 2018. The intention was to study the "idiomatic Pandas", but first we reviewed topics about Python and Numpy,and then focus on the understanding and preparation of data (following the CRISP-DM methodology).
+
 Later, I will share more notes on more topics that I consider relevant, unfortunately we could not review them.
 
 ## Notebook and description:
